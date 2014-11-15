@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+rerun -- hutch --config config/hutch.yml --require ./consumer.rb
